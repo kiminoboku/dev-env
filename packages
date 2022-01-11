@@ -1,0 +1,26 @@
+atom
+cask
+coreutils
+cyberduck
+docker
+git
+git-flow
+google-chrome
+htop
+karabiner-elements
+maven
+maven-completion
+meld
+openjdk
+postman
+visualvm
+wget
+xz
+zsh
+
+powerlevel10k
+adobe reader
+google drive
+intellij
+keepass/macpass
+unarchiver

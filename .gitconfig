@@ -1,0 +1,25 @@
+[user]
+	name = Radoslaw Lewandowski
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	graph = log --pretty=oneline --graph --all
+	ignore = update-index --assume-unchanged
+	unignore = update-index --no-assume-unchanged
+	list-ignored = !git ls-files -v | grep ^h|awk '{print $2}'
+	amend = commit --amend
+	repeat = commit --reedit-message
+[core]
+	editor = vim
+	autocrlf = false
+[http]
+	sslVerify = false
+[push]
+	default = simple
+[pager]
+	branch = false
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
