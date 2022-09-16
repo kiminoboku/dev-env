@@ -2,11 +2,13 @@ atom
 cask
 coreutils
 cyberduck
+espanso
 docker
 git
 git-flow
 google-chrome
 htop
+jenv
 karabiner-elements
 maven
 maven-completion
